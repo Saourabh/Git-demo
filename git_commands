@@ -1,0 +1,5 @@
+git init = This command when initialized makes that folder as root folder
+git status = Will show if any new file in git. Shows whaht all is modified
+git add = to add filed in repository. It comes in Staging area
+git commit -m = to commit a file in git
+git log = shows all log file in VCS. Will show hash version if someone made changes to another version will be created we can go to previous version and check the changes
